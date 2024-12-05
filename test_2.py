@@ -3,3 +3,5 @@ sum = 2 + 2
 
 # assert проверяет тест
 assert sum <= 5
+1
+2
